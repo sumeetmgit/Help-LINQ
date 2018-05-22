@@ -1,0 +1,9 @@
+H:\LearnWorkspace\Helpers-WCF\LINQUnderstadings\LINQUnderstadings\bin\Debug\LINQUnderstadings.exe.config
+H:\LearnWorkspace\Helpers-WCF\LINQUnderstadings\LINQUnderstadings\bin\Debug\LINQUnderstadings.exe
+H:\LearnWorkspace\Helpers-WCF\LINQUnderstadings\LINQUnderstadings\bin\Debug\LINQUnderstadings.pdb
+H:\LearnWorkspace\Helpers-WCF\LINQUnderstadings\LINQUnderstadings\bin\Debug\StyleCop.dll
+H:\LearnWorkspace\Helpers-WCF\LINQUnderstadings\LINQUnderstadings\bin\Debug\StyleCop.xml
+H:\LearnWorkspace\Helpers-WCF\LINQUnderstadings\LINQUnderstadings\obj\Debug\LINQUnderstadings.csprojResolveAssemblyReference.cache
+H:\LearnWorkspace\Helpers-WCF\LINQUnderstadings\LINQUnderstadings\obj\Debug\LINQUnderstadings.csproj.CoreCompileInputs.cache
+H:\LearnWorkspace\Helpers-WCF\LINQUnderstadings\LINQUnderstadings\obj\Debug\LINQUnderstadings.exe
+H:\LearnWorkspace\Helpers-WCF\LINQUnderstadings\LINQUnderstadings\obj\Debug\LINQUnderstadings.pdb
